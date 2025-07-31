@@ -6,12 +6,11 @@ Hello!
 
 #### Contact
 
-Email: yuhang.xia.cs[at]outlook.com
+Email: yuhang.xia.cs@outlook.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+B.E., Computer Science and Technology, Liaoning Normal University, 2021—2025.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Deep Learning, Computer Vision, Natural Language Processing.
 
